@@ -6,6 +6,6 @@ Guess It is a word guessing app you can play with one or more friends. To play, 
 If you get the word right, press **Got It**. If you're stuck, press **Skip**. The game runs for a minute and then shows you your score.
 
 # What I learned
-* How how to inegreate and work with fragments
-* How to use the navigation componenets
-* How to use SafeArgs to navigate to other fragments with null saftey
+* How to use and observe LiveData for data persistance
+* How to implement a ViewModel for the diffrent fragments and activities of the app
+* Learned about the importance of artchitecture components and differenct artchitecture styles
